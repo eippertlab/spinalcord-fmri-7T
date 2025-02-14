@@ -1,1 +1,1 @@
-# spinalcord-fmri-7t
+# spinalcord-fmri-7T
