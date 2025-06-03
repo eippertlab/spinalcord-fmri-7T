@@ -16,23 +16,23 @@ In each of these folders there are bash and python scripts that can be run in th
 
 ### Required software
 
-    [Spinal Cord Toolbox (SCT)](https://spinalcordtoolbox.com/index.html)
-    [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSL)
-    [MATLAB](https://de.mathworks.com/products/matlab.html)
-    [ANTS](https://github.com/ANTsX/ANTs) (only for N4BiasFieldCorrection of anatomical images and shift in z direction of functional images)
-    [AFNI](https://afni.nimh.nih.gov/) (only for 3dFWHMx command)
-    [Python](https://www.python.org/) + packages listed in code
+* [Spinal Cord Toolbox (SCT)](https://spinalcordtoolbox.com/index.html)
+* [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSL)
+* [MATLAB](https://de.mathworks.com/products/matlab.html)
+* [ANTS](https://github.com/ANTsX/ANTs) (only for N4BiasFieldCorrection of anatomical images and shift in z direction of functional images)
+* [AFNI](https://afni.nimh.nih.gov/) (only for 3dFWHMx command)
+* [Python](https://www.python.org/) + packages listed in code
 
 ### Additional repos we rely on
 
-    https://github.com/NYU-DiffusionMRI/mppca_denoise  (for denoising of functional images)
-    https://sites.google.com/site/pierrickcoupe/softwares/super-resolution/monomodal  (for shift in z-direction of functional images)
-    https://sites.google.com/site/pierrickcoupe/softwares/denoising/mri-denoising/mri-denoising-software  (for denoising of anatomical images)
+* https://github.com/NYU-DiffusionMRI/mppca_denoise  (for denoising of functional images)
+* https://sites.google.com/site/pierrickcoupe/softwares/super-resolution/monomodal  (for shift in z-direction of functional images)
+* https://sites.google.com/site/pierrickcoupe/softwares/denoising/mri-denoising/mri-denoising-software  (for denoising of anatomical images)
 
 ### For preprocessing and calculation of results the following software was used:
 
-    Bash: GNU bash, version 5.2.15(1)-release (x86_64-pc-linux-gnu)
-    Spinal cord toolbox: 6.1
-    FSL version 6.0.3
-    ANTs version 2.3.1
-    Python version 3.12
+* Bash: GNU bash, version 5.2.15(1)-release (x86_64-pc-linux-gnu)
+* Spinal cord toolbox: 6.1
+* FSL version 6.0.3
+* ANTs version 2.3.1
+* Python version 3.12
