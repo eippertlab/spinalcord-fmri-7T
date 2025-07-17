@@ -1,3 +1,4 @@
+[![GitHub Release](https://img.shields.io/github/v/release/eippertlab/spinalcord-fmri-7T)](https://github.com/eippertlab/spinalcord-fmri-7T/releases/tag/v1.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # spinalcord-fmri-7T
