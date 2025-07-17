@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # spinalcord-fmri-7T
 
 This repository is associated with the following manuscript (LINK). The data for this project will be made publicly available via OpenNeuro and OSF upon acceptance of the manuscript.
