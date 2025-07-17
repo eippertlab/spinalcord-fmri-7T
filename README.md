@@ -1,15 +1,15 @@
 # spinalcord-fmri-7T
 
-This repository is associated with the following manuscript and the corresponding dataset:
+This repository is associated with the following manuscript (LINK). The data for this project will be made publicly available via OpenNeuro and OSF upon acceptance of the manuscript.
 
 If you have any questions regarding this code, please feel free to reach out to uhorn@cbs.mpg.de.
 
 ### Content
 
 The code is organized into the sections:
-  dataset1 (containing processing scripts for the fMRI and physiological data in the screening dataset)
-  dataset2_3 (containing processing scripts for the fMRI and physiological data in the actual heat pain datasets)
-  dataset4 (containing processing scripts for the physiological data in the behavioral dataset)
+  dataset1 (containing processing scripts for the fMRI and physiological data in the screening dataset),
+  dataset2_3 (containing processing scripts for the fMRI and physiological data in the discovery and validation datasets),
+  dataset4 (containing processing scripts for the physiological data in the behavioral dataset), and
   figures (containing extra analyses and scripts to create the figures of the abovementioned manuscript)
 
 In each of these folders there are bash and python scripts that can be run in the order in which they are named. Some of them need specific extra functions that are included in the subfolder helper_functions within each folder.
