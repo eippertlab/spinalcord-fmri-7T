@@ -4,7 +4,7 @@
 
 # spinalcord-fmri-7T
 
-This repository is associated with the following manuscript (LINK). The data for this project will be made publicly available via OpenNeuro and OSF upon acceptance of the manuscript.
+This repository is associated with the following [manuscript](https://www.biorxiv.org/content/10.1101/2025.07.17.665316v1). The data for this project will be made publicly available via OpenNeuro and OSF upon acceptance of the manuscript.
 
 If you have any questions regarding this code, please feel free to reach out to uhorn@cbs.mpg.de.
 
